@@ -18,13 +18,15 @@ The problems regarding the manual irrigation system were  analyzed and noted. Th
 
 
 
-<img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180715.jpg" alt="system image" width="300" height="200"/>  &nbsp;     <img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180743.jpg" alt="system image" width="300" height="200"/>    &nbsp;    <img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180811.jpg" alt="system image" width="300" height="200"/>
+<img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180715.jpg" alt="system image" width="250" height="200"/>  &nbsp;     <img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180743.jpg" alt="system image" width="250" height="200"/>    &nbsp;    <img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180811.jpg" alt="system image" width="250" height="200"/>
 
 ---
 
 ## Flowchart
 
-[View Here](https://imgur.com/DOJ8eh9)
+<!-- [View Here](https://imgur.com/DOJ8eh9) -->
+<img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/ES%20PROJECT.png" alt="system image" width="500" height="1000"/>
+
 
 
 
