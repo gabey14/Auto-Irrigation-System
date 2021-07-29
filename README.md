@@ -13,3 +13,20 @@ The problems regarding the manual irrigation system were  analyzed and noted. Th
 
 * Resistors 10k and 100 ohms have been used here to control current flow and divide the voltages, breadboard for prototyping our project, jumper wires to make connections between all the hardware components, LED’s to detect the signals we want the user to receive. And last, but not least, Arduino-UNO to interacts through sensor with environment and process according to the program stored in it and performs output operation.
   
+
+## Images of the System
+
+
+
+<img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180715.jpg" alt="system image" width="300" height="200"/>  &nbsp;     <img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180743.jpg" alt="system image" width="300" height="200"/>    &nbsp;    <img src="https://github.com/gabey14/Auto-Irrigation-System/blob/main/IMG_20201115_180811.jpg" alt="system image" width="300" height="200"/>
+
+---
+
+## Flowchart
+
+[View Here](https://imgur.com/DOJ8eh9)
+
+
+
+
+  
